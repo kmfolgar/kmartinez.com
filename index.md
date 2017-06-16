@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Hola Mundo!, 
 
-You can use the [editor on GitHub](https://github.com/ThinkOnData/ThinkOnData.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Kevin, a medical doctor and researcher from Guatemala. Python Coder and Data Analyist. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Martinez-Folgar, Kevin. Educación médica basada en competencias: la nueva Torre de Babel
+Investigación en Educación Médica, vol. 6, núm. 21, enero-marzo, 2017, pp. 64-65
+Universidad Nacional Autónoma de México
+Distrito Federal, México
 
-```markdown
-Syntax highlighted code block
+2. K. Martínez Folgar, V.M. Salomon
+Publicación científica estudiantil: un vistazo a la realidad guatemalteca
+Educ Med (2016) [citado 29 Oct 2016]. Disponible en: http://dx.doi.org/10.1016/j.edumed.2016.08.003
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThinkOnData/ThinkOnData.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ThinkOnData
+Dr. Kevin Martinez-Folgar
+kevinfolgar.gt@gmail.com
+kmartinez@incap.int
+Guatemala, CA.
+
