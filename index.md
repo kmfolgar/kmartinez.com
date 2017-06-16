@@ -18,9 +18,11 @@ Educ Med (2016) [citado 29 Oct 2016]. Disponible en: http://dx.doi.org/10.1016/j
 
 ### Support or Contact
 
-ThinkOnData
+@ThinkOnData  in Twitter. 
+
 Dr. Kevin Martinez-Folgar
-kevinfolgar.gt@gmail.com
-kmartinez@incap.int
+<kevinfolgar.gt@gmail.com>
+<kmartinez@incap.int>
+
 Guatemala, CA.
 
