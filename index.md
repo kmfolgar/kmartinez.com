@@ -12,16 +12,17 @@ Distrito Federal, México
 
 2. K. Martínez Folgar, V.M. Salomon
 Publicación científica estudiantil: un vistazo a la realidad guatemalteca
-Educ Med (2016) [citado 29 Oct 2016]. Disponible en: http://dx.doi.org/10.1016/j.edumed.2016.08.003
-
+Educ Med (2016). Disponible en: <http://dx.doi.org/10.1016/j.edumed.2016.08.003>
 
 
 ### Support or Contact
 
-@ThinkOnData  in Twitter. 
+[@ThinkOnData](https://twitter.com/ThinkOnData)  in Twitter. 
 
 Dr. Kevin Martinez-Folgar
+
 <kevinfolgar.gt@gmail.com>
+
 <kmartinez@incap.int>
 
 Guatemala, CA.
