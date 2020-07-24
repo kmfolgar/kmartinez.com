@@ -25,7 +25,7 @@ for x in list1:
 ```
 
 ### Contact     
-![kev](/images/kev.jpg =152x192)
+![kev](/images/kev.jpg)
 
 **Kevin Martinez-Folgar, MD.**   
 Ph.D. Student in Epidemiology   
