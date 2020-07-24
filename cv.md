@@ -5,12 +5,15 @@ permalink: /cv/
 output: pdf_document
 ---
 
-
 # Kevin Martinez-Folgar, MD.
  Department of Epidemiology &amp; Biostatistics
+ 
  Dornsife School of Public Health, Drexel University, Philadelphia, PA. USA
+ 
  Urban Health Collaborative
+ 
  3600 Market Street, P Philadelphia, PA 19104. USA 
+ 
  
 
 ### Research interests
