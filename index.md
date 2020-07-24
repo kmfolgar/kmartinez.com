@@ -23,9 +23,12 @@ GIS
 
 ### Support or Contact
 
-[@ThinkOnData](https://twitter.com/ThinkOnData)  in Twitter.
+[@kmfolgar](https://twitter.com/kmfolgar)  in Twitter.
 
-Dr. Kevin Martinez-Folgar \n
-<kevinfolgar.gt@gmail.com> \n
-<km3785@drexel.edu> \n
+Dr. Kevin Martinez-Folgar 
+
+<kevinfolgar.gt@gmail.com> 
+
+<km3785@drexel.edu>
+
 Philadelphia, PA, EEUU. | Guatemala, CA. 
