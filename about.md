@@ -4,7 +4,7 @@ layout: page
 permalink: /about/
 ---
 
-![kev](/images/kev.jpg)   
+
 
 My name is Kevin, I am a PhD Student in Epidemiology at Drexel University.  
 I was trained as a medical doctor and researcher in Guatemala.
@@ -24,7 +24,8 @@ for x in list1:
     
 ```
 
-### Contact
+### Contact     
+![kev](/images/kev.jpg=152x192)
 
 **Kevin Martinez-Folgar, MD.**   
 Ph.D. Student in Epidemiology   
