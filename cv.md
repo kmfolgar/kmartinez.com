@@ -1,21 +1,28 @@
 ---
-layout: page
 title: "Curriculum Vitae"
+layout: page
 permalink: /cv/
-
+output: pdf_document
 ---
 
----
+
+# Kevin Martinez-Folgar, MD.
+ Department of Epidemiology &amp; Biostatistics
+ Dornsife School of Public Health, Drexel University, Philadelphia, PA. USA
+ Urban Health Collaborative
+ 3600 Market Street, P Philadelphia, PA 19104. USA 
+ 
+
 ### Research interests
 Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiology, Nutrition, Physical Activity, Chronic Diseases, Machine Learning in Health, IoT in Health, mHealth.
----
+
 
 ### Education
 
-**2019 - now**   `PhD in Epidemiology`
+**2019 - now**   _PhD in Epidemiology_
 - Department of Epidemiology & Biostatistics, Dornsife School of Public Health, Drexel University, Philadelphia, PA. USA
  
-**2010 - 2016**  `Medical Doctor`
+**2010 - 2016**  _Medical Doctor_
 - Faculty of Medical Sciences, University of San Carlos of Guatemala, Guatemala.
 
 
@@ -99,7 +106,7 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 
 ### Medical License
 
-Medical registry No. _21,113_
+Medical registry No. 21,113
 College of Physicians &amp; Surgeons of Guatemala.
 
 
@@ -154,5 +161,3 @@ College of Physicians &amp; Surgeons of Guatemala.
 [VIDEO Epidemiólogo: "De momento se hace casi imposible hacer una comparación sin sesgo entre países"](https://www.plazapublica.com.gt/content/epidemiologo-de-momento-se-hace-casi-imposible-hacer-una-comparacion-sin-sesgo-entre-paises)
 
 [(Mapas y datos) Así está la pandemia al otro lado de las débiles fronteras de Guatemala](https://nomada.gt/pais/actualidad/mapas-y-datos-asi-esta-la-pandemia-al-otro-lado-de-las-debiles-fronteras-de-guatemala/)
-
-
