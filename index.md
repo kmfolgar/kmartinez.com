@@ -1,3 +1,8 @@
+---
+layout: default
+title: Kevin Martinez-Folgar, MD.
+---
+
 ## Hola Mundo!,
 
 My name is Kevin, I am a PhD Student in Epidemiology at Drexel University. I was trained as a medical doctor and researcher in Guatemala.
@@ -14,18 +19,11 @@ for x in list1:
     print("I'm a " + x)
 ```
 
-
-### Coding
-Python For Data Analyst/Science
-R
-GIS
-
-
-### Support or Contact
-
-[@kmfolgar](https://twitter.com/kmfolgar)  in Twitter.
+### Contact
 
 Dr. Kevin Martinez-Folgar 
+
+[@kmfolgar](https://twitter.com/kmfolgar)  in Twitter.
 
 <kevinfolgar.gt@gmail.com> 
 
