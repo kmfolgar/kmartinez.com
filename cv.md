@@ -5,16 +5,19 @@ permalink: /cv/
 
 ---
 
+---
 ### Research interests
 Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiology, Nutrition, Physical Activity, Chronic Diseases, Machine Learning in Health, IoT in Health, mHealth.
+---
 
 ### Education
 
-**2019 - now**  `PhD Student in Epidemiology`
+**2019 - now**   `PhD in Epidemiology`
 - Department of Epidemiology & Biostatistics, Dornsife School of Public Health, Drexel University, Philadelphia, PA. USA
  
-**2010 - 2016** `Medical Doctor`
+**2010 - 2016**  `Medical Doctor`
 - Faculty of Medical Sciences, University of San Carlos of Guatemala, Guatemala.
+
 
 
 ### Employment
@@ -32,6 +35,7 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 **June - December 2016**  Research Fellow in the INCAP Research Center for the Prevention of Chronic Diseases (CIIPEC).
 
 - Field coordinator. Child Health and Nutrition Impact Study (ChNIS) in partnership with Bloomberg School of Public Health, Johns Hopkins University. INCAP, Guatemala
+
 
 
 ### Teaching
@@ -52,6 +56,8 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 
 **2011** _Instructor._ Biology course (Pre-University course). Faculty of Medical Sciences in University of San Carlos of Guatemala.
 
+
+
 ### Seminars/ Guest Lecturer
 
 **2018** _Guest Lecturer._ &quot;Introduction to the use of scientific evidence and correct citation&quot;. Nutrition and Public Health Course, Faculty of Nutrition Sciences in University Del Valle of Guatemala.
@@ -61,6 +67,8 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 **2018** _Guest Lecturer._ &quot;Urban Health&quot;. Urban Health Forum, Faculty of Agricultural Sciences in Rafael Landivar University, Guatemala.
 
 **2017** _Guest Lecturer._ &quot;Career in Research&quot;. SOCIG Seminar, Faculty of Medical Sciences, University of San Carlos, Guatemala.
+
+
 
 ### Institutional Honors Position
 
@@ -76,7 +84,9 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 
 **2012** First Substitute of General Secretary in the National Medical Student Association &quot;Gustavo Adolfo Hernandez&quot;.
 
-# Affiliated Organizations and Societies
+
+
+### Affiliated Organizations and Societies
 
 - Urban Health Network for Latin America and the Caribbean, Drexel University.
 - Society for Epidemiologic Research – SER-
@@ -85,17 +95,25 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 - American Public Health Association
 - College of Physicians of Philadelphia, Public Health Section.
 
-## Medical License
+
+
+### Medical License
 
 Medical registry No. _21,113_
 College of Physicians &amp; Surgeons of Guatemala.
 
-## Awards and Fellowships
+
+
+### Awards and Fellowships
 **2020 American Public Health Association** 2020 Trong D. Nguyen Memorial Award Finalist 
+
 **2020 Society for Epidemiologic Research Travel Award,**
+
 **2018 Fogarty Scholarship** Physical Activity and Public Health (Advanced course), National Institute of Public Health. Cuernavaca, México.
 
-## Other Significant Training
+
+
+### Other Significant Training
 
 **2019** Multilevel Modeling Course, Drexel University and Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.
 
@@ -129,4 +147,12 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 **2009** Internet Services, Galileo University, Guatemala.
 
-## News coverage
+### News coverage
+
+[COVID19 En 5 gráficos: La mortalidad ha crecido en la capital pero no en el país con respecto a años anteriores](https://www.plazapublica.com.gt/content/covid19-en-5-graficos-la-mortalidad-ha-crecido-en-la-capital-pero-no-en-el-pais-con-respecto)
+
+[VIDEO Epidemiólogo: "De momento se hace casi imposible hacer una comparación sin sesgo entre países"](https://www.plazapublica.com.gt/content/epidemiologo-de-momento-se-hace-casi-imposible-hacer-una-comparacion-sin-sesgo-entre-paises)
+
+[(Mapas y datos) Así está la pandemia al otro lado de las débiles fronteras de Guatemala](https://nomada.gt/pais/actualidad/mapas-y-datos-asi-esta-la-pandemia-al-otro-lado-de-las-debiles-fronteras-de-guatemala/)
+
+
