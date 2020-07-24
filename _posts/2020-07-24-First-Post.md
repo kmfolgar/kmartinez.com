@@ -1,6 +1,9 @@
 --
-layout: page
-title: "POST TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
+layout: post
+title: "First Post"
+date: 2020-07-24
 --
+
+# Hi There!
+
+Well, lets start over. This is my X^10 intent to start a blog. But now, as simple as possible.  

@@ -23,9 +23,8 @@ for x in list1:
 
 ### Contact
 
- 
 Kevin Martinez-Folgar, MD. 
-Ph.D. Student in Epidemiology
-Department of Epidemiology and Biostatistics & Urban Health Collaborative
-Dornsife School of Public Health 
-Drexel University
+\nPh.D. Student in Epidemiology
+\nDepartment of Epidemiology and Biostatistics & Urban Health Collaborative
+\nDornsife School of Public Health 
+\nDrexel University
