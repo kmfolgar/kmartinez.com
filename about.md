@@ -1,18 +1,20 @@
 ---
 layout: page
-title: "ABOUT ME"
+title: "About me"
 permalink: /about/
 
 ---
 
-My name is Kevin, I am a PhD Student in Epidemiology at Drexel University. I was trained as a medical doctor and researcher in Guatemala.
+My name is Kevin, I am a PhD Student in Epidemiology at Drexel University. 
+I was trained as a medical doctor and researcher in Guatemala.
 
 ```python
 #!/usr/bin/python3
 
 from Guatemala import kevin.mf as ThinkOnData
 
-list1 = ["Husband", "Dad", "Brother", "Son", "Researcher", "Coder"] 
+list1 = ["Husband", "Dad", "Brother", "Son", 
+		 "Researcher", "Coder", "Epidemiologist"] 
 
 for x in list1:
 
@@ -21,12 +23,9 @@ for x in list1:
 
 ### Contact
 
-Dr. Kevin Martinez-Folgar 
-
-[@kmfolgar](https://twitter.com/kmfolgar)  in Twitter.
-
-<kevinfolgar.gt@gmail.com> 
-
-<km3785@drexel.edu>
-
-Philadelphia, PA, EEUU. | Guatemala, CA. 
+ 
+Kevin Martinez-Folgar, MD. 
+Ph.D. Student in Epidemiology
+Department of Epidemiology and Biostatistics & Urban Health Collaborative
+Dornsife School of Public Health 
+Drexel University
