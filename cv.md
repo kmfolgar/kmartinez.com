@@ -8,35 +8,33 @@ permalink: /cv/
 ### Research interests
 Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiology, Nutrition, Physical Activity, Chronic Diseases, Machine Learning in Health, IoT in Health, mHealth.
 
-## Education
+### Education
 
-`2019 - now` 
-__PhD Student in Epidemiology __
+**2019 - now**  `PhD Student in Epidemiology`
 - Department of Epidemiology & Biostatistics, Dornsife School of Public Health, Drexel University, Philadelphia, PA. USA
  
-`2010 - 2016` 
-__Medical Doctor__
+**2010 - 2016** `Medical Doctor`
 - Faculty of Medical Sciences, University of San Carlos of Guatemala, Guatemala.
 
 
-## Employment
+### Employment
 
-**September 2019- to date** , Graduate Research Fellow in the Urban Health Collaborative, Dornsife School of Public Health.
+**September 2019 – to date** Graduate Research Fellow in the Urban Health Collaborative, Dornsife School of Public Health, Drexel University. 
 
-**January 2017 – August 2019,** Researcher in the INCAP Research Center for the Prevention of Chronic Diseases –CIIPEC, Institute of Nutrition of Central América and Panamá
+**January 2017 – August 2019** Researcher in the INCAP Research Center for the Prevention of Chronic Diseases –CIIPEC, Institute of Nutrition of Central América and Panamá
 
-- _ **June 2018 - August 2019**. Hy-TREC Project, in partnership with Tulane University School of Public Health and Tropical Medicine; Colorado School of Public Health, UC-Denver; INCAP, Guatemala.
+- **June 2018 - August 2019** Hy-TREC Project, in partnership with Tulane University School of Public Health and Tropical Medicine; Colorado School of Public Health, UC-Denver; INCAP, Guatemala.
 
-- _ **April 2017 - August 2019**. Data Analyst of the Central American hub for the &quot;Salud Urbana en América Latina&quot; project, in partnership with Dornsife School of Public Health, Drexel University. INCAP, Guatemala
+- **April 2017 - August 2019** Data Analyst of the Central American hub for the &quot;Salud Urbana en América Latina&quot; project, in partnership with Dornsife School of Public Health, Drexel University. INCAP, Guatemala
 
-- _ **January-March 2017** _- Data Analyst for Guatemala in the Child Health and Nutrition Impact Study (ChNIS) in partnership with Bloomberg School of Public Health, Johns Hopkins University.
+- **January - March 2017** Data Analyst for Guatemala in the Child Health and Nutrition Impact Study (ChNIS) in partnership with Bloomberg School of Public Health, Johns Hopkins University.
 
-**June- December 2016** , Research Fellow in the INCAP Research Center for the Prevention of Chronic Diseases (CIIPEC).
+**June - December 2016**  Research Fellow in the INCAP Research Center for the Prevention of Chronic Diseases (CIIPEC).
 
 - Field coordinator. Child Health and Nutrition Impact Study (ChNIS) in partnership with Bloomberg School of Public Health, Johns Hopkins University. INCAP, Guatemala
 
 
-# Teaching.
+### Teaching
 
 **2020** _Teaching Assistant_. Data Visualization for Urban Health, Urban Health Collaborative Summer Institute, Drexel University. Philadelphia PA.
 
@@ -48,33 +46,33 @@ __Medical Doctor__
 
 **2012** _Tutor._ Student Tutoring Program, Faculty of Medical Science. University of San Carlos of Guatemala.
 
-_Course director._ Pre-University Course in Faculty of Medical Sciences. University of San Carlos of Guatemala.
+**2012** _Course director._ Pre-University Course in Faculty of Medical Sciences. University of San Carlos of Guatemala.
 
-_Instructor._ Biology course (Pre-University course), Faculty of Medical Science. University of San Carlos de Guatemala.
+**2012** _Instructor._ Biology course (Pre-University course), Faculty of Medical Science. University of San Carlos de Guatemala.
 
 **2011** _Instructor._ Biology course (Pre-University course). Faculty of Medical Sciences in University of San Carlos of Guatemala.
 
-#### Seminars/ Guest Lecturer
+### Seminars/ Guest Lecturer
 
-**2018** Guest Lecturer. &quot;Introduction to the use of scientific evidence and correct citation&quot;. Nutrition and Public Health Course, Faculty of Nutrition Sciences in University Del Valle of Guatemala.
+**2018** _Guest Lecturer._ &quot;Introduction to the use of scientific evidence and correct citation&quot;. Nutrition and Public Health Course, Faculty of Nutrition Sciences in University Del Valle of Guatemala.
 
-**2018** Guest Lecturer. &quot;Introduction to the use of scientific evidence and correct citation&quot;. Nutrition and Public Health Course, Faculty of Nutrition Sciences in University Del Valle of Guatemala.
+**2018** _Guest Lecturer._ &quot;Introduction to the use of scientific evidence and correct citation&quot;. Nutrition and Public Health Course, Faculty of Nutrition Sciences in University Del Valle of Guatemala.
 
-**2018** Guest Lecturer. &quot;Urban Health&quot;. Urban Health Forum, Faculty of Agricultural Sciences in Rafael Landivar University, Guatemala.
+**2018** _Guest Lecturer._ &quot;Urban Health&quot;. Urban Health Forum, Faculty of Agricultural Sciences in Rafael Landivar University, Guatemala.
 
-**2017** Guest Lecturer. &quot;Career in Research&quot;. SOCIG Seminar, Faculty of Medical Sciences, University of San Carlos, Guatemala.
+**2017** _Guest Lecturer._ &quot;Career in Research&quot;. SOCIG Seminar, Faculty of Medical Sciences, University of San Carlos, Guatemala.
 
-# Institutional Honors Position
+### Institutional Honors Position
 
 **2018-2020** Vice-president of the Institutional Ethics Committee, Institute of Nutrition of Central America and Panamá, Guatemala.
 
 **2013** President of the National Medical Student Association &quot;Gustavo Adolfo Hernandez&quot;, Guatemala.
 
-Titular Member of the Higher University Council of Central America –CSUCA-.
+**2013** Titular Member of the Higher University Council of Central America –CSUCA-.
 
-Vice-President and Founder member of Scientific Society of Guatemala.
+**2013** Vice-President and Founder member of Scientific Society of Guatemala.
 
-National Delegate of Guatemala in the General Assembly of the Latin American Federation of Scientific Societies of Medical Students.
+**2013** National Delegate of Guatemala in the General Assembly of the Latin American Federation of Scientific Societies of Medical Students.
 
 **2012** First Substitute of General Secretary in the National Medical Student Association &quot;Gustavo Adolfo Hernandez&quot;.
 
@@ -89,7 +87,7 @@ National Delegate of Guatemala in the General Assembly of the Latin American Fed
 
 ## Medical License
 
-Medical registry No. 21,113
+Medical registry No. _21,113_
 College of Physicians &amp; Surgeons of Guatemala.
 
 ## Awards and Fellowships

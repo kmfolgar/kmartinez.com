@@ -4,7 +4,9 @@ title: "Publications"
 permalink: /publications/
 
 ---
-<!-- A list is also available [online](https://scholar.google.com/citations?user=cAUPpBgAAAAJ) -->
+
+A most updated list is also available in [Google Scholar](https://scholar.google.com/citations?user=cAUPpBgAAAAJ) 
+
 
 # Scientific publications
 
