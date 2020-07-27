@@ -67,6 +67,10 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 
 ### Seminars/ Guest Lecturer
 
+**2020** _Guest Speaker_ COVID-19 in Guatemala: Epidemiology. Faculty of Medical Sciences, University of San Carlos, Guatemala. 
+
+**2020** _Guest Speaker_ COVID-19 in Guatemala: Trends and Simulation Models. Guatemalan Society of Infectious Diseases.
+
 **2018** _Guest Lecturer._ &quot;Introduction to the use of scientific evidence and correct citation&quot;. Nutrition and Public Health Course, Faculty of Nutrition Sciences in University Del Valle of Guatemala.
 
 **2018** _Guest Lecturer._ &quot;Introduction to the use of scientific evidence and correct citation&quot;. Nutrition and Public Health Course, Faculty of Nutrition Sciences in University Del Valle of Guatemala.
