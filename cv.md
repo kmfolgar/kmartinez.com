@@ -31,7 +31,7 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 
 **September 2019 – to date** Graduate Research Fellow in the Urban Health Collaborative, Dornsife School of Public Health, Drexel University. 
 
-**January 2017 – August 2019** Researcher in the INCAP Research Center for the Prevention of Chronic Diseases –CIIPEC, Institute of Nutrition of Central América and Panamá
+**January 2017 – August 2019** Researcher in the INCAP Research Center for the Prevention of Chronic Diseases –CIIPEC–, Institute of Nutrition of Central América and Panamá –INCAP–
 
 - **June 2018 - August 2019** Hy-TREC Project, in partnership with Tulane University School of Public Health and Tropical Medicine; Colorado School of Public Health, UC-Denver; INCAP, Guatemala.
 
@@ -69,7 +69,7 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 
 **2020** _Guest Speaker_ COVID-19 in Guatemala: Epidemiology. Faculty of Medical Sciences, University of San Carlos, Guatemala. 
 
-**2020** _Guest Speaker_ COVID-19 in Guatemala: Trends and Simulation Models. Guatemalan Society of Infectious Diseases.
+**2020** _Guest Speaker_ COVID-19 in Guatemala: Trends and Simulation Models. Guatemalan Society of Infectious Diseases. (AGEI)
 
 **2018** _Guest Lecturer._ &quot;Introduction to the use of scientific evidence and correct citation&quot;. Nutrition and Public Health Course, Faculty of Nutrition Sciences in University Del Valle of Guatemala.
 
@@ -99,12 +99,11 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 
 ### Affiliated Organizations and Societies
 
-- Urban Health Network for Latin America and the Caribbean, Drexel University.
 - Society for Epidemiologic Research – SER-
-- Scientific Society of Guatemala
-- College of Physicians and Surgeons of Guatemala
 - American Public Health Association
+- College of Physicians and Surgeons of Guatemala
 - College of Physicians of Philadelphia, Public Health Section.
+- Urban Health Network for Latin America and the Caribbean, Drexel University.
 
 
 
