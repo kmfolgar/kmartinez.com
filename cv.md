@@ -33,7 +33,9 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 
 **January 2017 – August 2019** Researcher in the INCAP Research Center for the Prevention of Chronic Diseases –CIIPEC–, Institute of Nutrition of Central América and Panamá –INCAP–
 
-- **June 2018 - August 2019** Hy-TREC Project, in partnership with Tulane University School of Public Health and Tropical Medicine; Colorado School of Public Health, UC-Denver; INCAP, Guatemala.
+- **December 2018 - August 2019** National Consultant, The Economic and Social Cost of the Double Burden of malnutrition in Central America (Guatemala, Dominican Republic, El Salvador and Honduras), in partnership with the World Food Program (WFP) and the Economic Commmission for Latin American and the Caribbean (ECLAC), United Nations. 
+
+- **June 2018 - October 2018** Hy-TREC Project, in partnership with Tulane University School of Public Health and Tropical Medicine; Colorado School of Public Health, UC-Denver; INCAP, Guatemala.
 
 - **April 2017 - August 2019** Data Analyst of the Central American hub for the &quot;Salud Urbana en América Latina&quot; project, in partnership with Dornsife School of Public Health, Drexel University. INCAP, Guatemala
 
