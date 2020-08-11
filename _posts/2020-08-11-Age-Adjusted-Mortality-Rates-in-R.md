@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Age- Adjusted Rates"
+title: "Age-Adjusted Rates in R"
 date: 2020-08-11
 ---
 
@@ -34,7 +34,7 @@ standard_pop %>%
 
 Data Sample
 
-| location  | AGE  |  counts |population|
+| location  |  AGE  |   counts |  population|
 |---|---|---|---|
 |Guatemala   | 0 |  35 | 10250  |   
 |Guatemala   | 5|  25 |  12859 |   
