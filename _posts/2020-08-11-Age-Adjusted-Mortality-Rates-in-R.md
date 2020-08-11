@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Age- Adjusted Rates"
-date: 2020-07-24
+date: 2020-08-11
 ---
 
 Here is just some random code for future use. 
 
 
 ## Standard population
+
 
 ```r
 #https://seer.cancer.gov/stdpopulations/stdpopdic.html
