@@ -16,5 +16,12 @@ output: pdf_document
 
 ***2020*** [(Mapas y datos) Así está la pandemia al otro lado de las débiles fronteras de Guatemala](https://nomada.gt/pais/actualidad/mapas-y-datos-asi-esta-la-pandemia-al-otro-lado-de-las-debiles-fronteras-de-guatemala/)
 
+**2020** [(Mapas y Datos) ¿Qué departamentos corren más riesgo ante el COVID-19?](https://nomada.gt/pais/actualidad/mapas-y-datos-que-departamentos-corren-mas-riesgo-ante-el-covid-19/)
 
+**2020** [(Gráficas) Guatemala: el gran perdedor en pruebas de COVID-19 en América Latina](https://nomada.gt/pais/actualidad/graficas-guatemala-el-gran-perdedor-en-pruebas-de-covid-19-en-america-latina/)
+
+**2020** [6 Expertos y 6 razones por las que el acceso a datos es importante para enfrentar al COVID-19](https://nomada.gt/pais/actualidad/6-expertos-y-6-razones-por-las-que-el-acceso-a-datos-es-importante-para-enfrentar-al-covid-19/)
+
+
+**2020** [(Audios) La lucha contra el COVID-19: así es la vida en el hospital del Parque de la Industria](https://nomada.gt/pais/actualidad/audios-la-lucha-contra-el-covid-19-asi-es-la-vida-en-el-hospital-del-parque-de-la-industria/)
 
