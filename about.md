@@ -5,9 +5,8 @@ permalink: /about/
 ---
 
 
+Kevin, originally from Guatemala, earned his medical degree from the University of San Carlos of Guatemala. Before starting Drexel’s doctoral program in epidemiology, he was working as a junior researcher at the Institute of Nutrition of Central America and Panamá (INCAP), where he collaborated in different projects such as the Economic and Social Cost of Doble Burden of Malnutrition in Guatemala, El Salvador, Dominican Republic, and Honduras, working closely with ECLAC, PAHO, and WFP. Also, he was the lead data analyst in Central America for the SALURBAL project. Kevin is a doctoral research fellow at the Urban Health Collaborative and his research interests include cancer, urban health, social determinants, GIS, and data modeling. 
 
-My name is Kevin, I am a PhD Student in Epidemiology at Drexel University.  
-I was trained as a medical doctor and researcher in Guatemala.
 
 ```python
 
