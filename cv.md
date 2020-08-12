@@ -5,12 +5,12 @@ permalink: /cv/
 output: pdf_document
 ---
 
+
 # Kevin Martinez-Folgar, MD.
 Department of Epidemiology &amp; Biostatistics   
 Dornsife School of Public Health, Drexel University, Philadelphia, PA. USA   
 Urban Health Collaborative   
 3600 Market Street, Philadelphia, PA 19104. USA 
- 
  
 
 ### Research interests
@@ -184,9 +184,12 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 #### Presentations at Scientific Meetings (Oral Presentations)
 
-1. **Martinez-Folgar K,** Kroker-Lobos, MF._Geospatial Analysis of Mortality in Guatemala: Challenges and Opportunities._ IX National Congress of Epidemiology, Ministry of Health of Guatemala. October 2018
+1. **Martinez-Folgar K,** Kroker-Lobos, MF._Geospatial Analysis of Mortality in Guatemala: Challenges and Opportunities._ IX National Congress of Epidemiology, Ministry of Health of Guatemala. October 2018    
 
-#### Reports
+
+
+#### Reports    
+
 
 **2019** El costo de la doble carga de la malnutrición: Impacto social y económico (Guatemala) 
 
