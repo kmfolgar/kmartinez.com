@@ -29,7 +29,7 @@ for x in list1:
 ![kev](/images/kev.jpg)
 
 **Kevin Martinez-Folgar, MD.**   
-km3785 [at] drexel [dot] edu 
+km3785 [at] drexel [dot] edu       
 Ph.D. Student in Epidemiology   
 Department of Epidemiology and Biostatistics & Urban Health Collaborative   
 Dornsife School of Public Health   
