@@ -5,6 +5,11 @@ permalink: /appearences/
 output: pdf_document
 ---
 
+## Conferences 
+
+
+**December 17, 2020**  [Health Disparities Across the Cancer Continuum: Beyond Biology](https://epiresearch.org/event/health-disparities-across-the-cancer-continuum-beyond-biology/) 
+
 
 ## In the news
 
