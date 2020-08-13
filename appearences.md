@@ -30,3 +30,5 @@ output: pdf_document
 
 **2020** [(Audios) La lucha contra el COVID-19: así es la vida en el hospital del Parque de la Industria](https://nomada.gt/pais/actualidad/audios-la-lucha-contra-el-covid-19-asi-es-la-vida-en-el-hospital-del-parque-de-la-industria/)
 
+**2020** [COVID-19: Cinco meses después no conocemos la magnitud real de la pandemia](https://nomada.gt/pais/actualidad/covid-19-cinco-meses-despues-no-conocemos-la-magnitud-real-de-la-pandemia)
+
