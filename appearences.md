@@ -11,7 +11,13 @@ output: pdf_document
 **December 17, 2020**  [Health Disparities Across the Cancer Continuum: Beyond Biology](https://epiresearch.org/event/health-disparities-across-the-cancer-continuum-beyond-biology/) 
 
 
-## In the news
+## In the press
+
+***2020*** [“En Guatemala no se sabe si hay más muertos en la zona 1 o en la zona 10”](https://elperiodico.com.gt/domingo/2020/08/23/en-guatemala-no-se-sabe-si-hay-mas-muertos-en-la-zona-1-o-en-la-zona-10/)
+
+***2020*** [Verificamos por usted: ¿Los asintomáticos pueden convertirse en supercontagiadores del covid-19?](https://www.prensalibre.com/pl-plus/guatemala/comunitario/los-asintomaticos-en-espacios-cerrados-pueden-convertirse-en-supercontagiadores/)
+
+***2020*** [COVID19 se ensaña con la juventud guatemalteca](https://www.plazapublica.com.gt/content/covid19-se-ensana-con-la-juventud-guatemalteca)
 
 ***2020*** [Epidemiólogo: “Temo un aumento brusco de casos que no podremos detectar”](https://nomada.gt/pais/actualidad/epidemiologo-temo-un-aumento-brusco-de-casos-que-no-podremos-detectar/)
 
