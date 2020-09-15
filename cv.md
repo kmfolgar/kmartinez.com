@@ -8,9 +8,13 @@ output: pdf_document
 
 # Kevin Martinez-Folgar, MD.
 Department of Epidemiology &amp; Biostatistics   
-Dornsife School of Public Health, Drexel University, Philadelphia, PA. USA   
+Dornsife School of Public Health, 
+Drexel University, 
+Philadelphia, PA. USA   
+
 Urban Health Collaborative   
-3600 Market Street, Philadelphia, PA 19104. USA 
+3600 Market Street, 
+Philadelphia, PA 19104. USA 
  
 
 ### Research interests
@@ -118,6 +122,8 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 
 ### Institutional Honors Position
 
+**2020-2021** Doctoral Student Representative at Steering Committee, Urban Health Collaborative, Drexel University.
+
 **2018-2020** Vice-president of the Institutional Ethics Committee, Institute of Nutrition of Central America and Panamá, Guatemala.
 
 **2013** President of the National Medical Student Association &quot;Gustavo Adolfo Hernandez&quot;, Guatemala.
@@ -143,7 +149,8 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 ### Affiliated Organizations and Societies
 
 - Society for Epidemiologic Research – SER-
-- American Public Health Association
+- Interdisciplinary Association for Population Health Science - IAPHS - 
+- American Public Health Association - APHA - 
 - College of Physicians and Surgeons of Guatemala
 - College of Physicians of Philadelphia, Public Health Section.
 - Urban Health Network for Latin America and the Caribbean, Drexel University.
@@ -188,7 +195,8 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 
 
-#### Reports    
+
+#### Reports         
 
 
 **2019** El costo de la doble carga de la malnutrición: Impacto social y económico (Guatemala) 
@@ -199,5 +207,12 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 **2019** WFP, [El costo de la doble carga de la malnutrición: Impacto social y económico (Republica Dominicana)](https://es.wfp.org/el-costo-de-la-doble-carga-de-la-malnutricion-republica-dominicana)
 
-  
-  
+#### Editorial Activities    
+
+**Peer Review Activities. Journal Reviewer**
+  Geospatial Health    
+
+**Review of Abstracts for Scientific Meetings**
+
+2020 Society of Epidemiologic Research Fall Conference    
+2020 American Public Health Association - Epidemiology Section    
