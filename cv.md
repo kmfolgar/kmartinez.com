@@ -196,7 +196,7 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 
 
-#### Reports         
+#### Reports    
 
 
 **2019** El costo de la doble carga de la malnutrición: Impacto social y económico (Guatemala) 
@@ -205,11 +205,12 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 **2019** WFP, El costo de la doble carga de la malnutrición: Impacto social y económico (Honduras)
 
-**2019** WFP, [El costo de la doble carga de la malnutrición: Impacto social y económico (Republica Dominicana)](https://es.wfp.org/el-costo-de-la-doble-carga-de-la-malnutricion-republica-dominicana)
+**2019** WFP, [El costo de la doble carga de la malnutrición: Impacto social y económico (Republica Dominicana)](https://es.wfp.org/el-costo-de-la-doble-carga-de-la-malnutricion-republica-dominicana).    
 
-#### Editorial Activities    
 
-**Peer Review Activities. Journal Reviewer**
+#### Editorial Activities      
+
+**Peer Review Activities. Journal Reviewer**   
   Geospatial Health    
 
 **Review of Abstracts for Scientific Meetings**
