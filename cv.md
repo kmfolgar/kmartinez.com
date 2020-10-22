@@ -21,7 +21,7 @@ Philadelphia, PA 19104. USA
 Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiology, Nutrition, Physical Activity, Chronic Diseases, Machine Learning in Health, IoT in Health, mHealth.
 
 
-### Education
+# Education
 
 **2019 - now**   _PhD in Epidemiology_
 - Department of Epidemiology & Biostatistics, Dornsife School of Public Health, Drexel University, Philadelphia, PA. USA
@@ -64,7 +64,7 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 **2009** Internet Services, Galileo University, Guatemala.
 
 
-### Employment
+# Employment
 
 **September 2019 – to date** Graduate Research Fellow in the Urban Health Collaborative, Dornsife School of Public Health, Drexel University. 
 
@@ -84,7 +84,7 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 
 
 
-### Teaching
+# Teaching
 
 **2020** _Teaching Assistant_. Data Visualization for Urban Health, Urban Health Collaborative Summer Institute, Drexel University. Philadelphia PA.
 
@@ -120,7 +120,7 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 
 
 
-### Institutional Honors Position
+# Institutional Honors Position
 
 **2020-2021** Doctoral Student Representative at Steering Committee, Urban Health Collaborative, Drexel University.
 
@@ -137,7 +137,7 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 **2012** First Substitute of General Secretary in the National Medical Student Association &quot;Gustavo Adolfo Hernandez&quot;.
 
 
-### Awards and Fellowships
+# Awards and Fellowships
 **2020 American Public Health Association** 2020 Trong D. Nguyen Memorial Award Finalist 
 
 **2020 Society for Epidemiologic Research Travel Award,**
@@ -156,12 +156,10 @@ Social epidemiology, Urban health, Cancer disparities, Cardiovascular epidemiolo
 - Urban Health Network for Latin America and the Caribbean, Drexel University.
 
 
-
 ### Medical License
 
 Medical registry No. 21,113
 College of Physicians &amp; Surgeons of Guatemala.
-
 
 
 # Scientific publications
@@ -191,26 +189,35 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 #### Presentations at Scientific Meetings (Oral Presentations)
 
-1. **Martinez-Folgar K,** Kroker-Lobos, MF._Geospatial Analysis of Mortality in Guatemala: Challenges and Opportunities._ IX National Congress of Epidemiology, Ministry of Health of Guatemala. October 2018    
+5. **Martinez-Folgar K,** _Liver cancer mortality disparities between Hispanics and Non-Hispanics Whites in US cities._ 2020 Annual Meeting, Society for Epidemiologic Research, United States. November 2020   
+
+4. Goodman-Levy W, **Martinez-Folgar K,**  _Heat related mortality in 340 guatemalan municipalities._ 2020 Annual Meeting, American Public Health Association, United States. November 2020   
+
+3. **Martinez-Folgar K,** Lazo M, Bilal U. _Liver cancer mortality disparities between Hispanics and Non-Hispanics Whites in US cities._ 2020 Annual Meeting, Society for Epidemiologic Research, United States. December 2020   
+
+2. **Martinez-Folgar K,**. _Modelling the pandemic: COVID-19 in Guatemala._ VI National Congress of Physics and Mathematics, USAC-UVG-UMG, Guatemala, September 2018  
+
+1. **Martinez-Folgar K,** Kroker-Lobos, MF._Geospatial Analysis of Mortality in Guatemala: Challenges and Opportunities._ IX National Congress of Epidemiology, Ministry of Health of Guatemala. October 2018
+
+
+#### Reports
+
+
+    
+ **2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (Guatemala)](https://reliefweb.int/report/guatemala/el-costo-de-la-doble-carga-de-la-malnutrici-n-impacto-social-y-econ-mico-en) 
+
+**2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (El Salvador)](https://es.wfp.org/publicaciones/el-costo-de-la-doble-carga-de-la-malnutricion-el-salvador)
+
+**2019** World Food Program, El costo de la doble carga de la malnutrición: Impacto social y económico (Honduras)
+
+**2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (Republica Dominicana)](https://es.wfp.org/el-costo-de-la-doble-carga-de-la-malnutricion-republica-dominicana).    
+
+
+## Editorial Activities      
 
 
 
-
-#### Reports    
-
-
-**2019** El costo de la doble carga de la malnutrición: Impacto social y económico (Guatemala) 
-
-**2019** WFP , [El costo de la doble carga de la malnutrición: Impacto social y económico (El Salvador)](https://es.wfp.org/publicaciones/el-costo-de-la-doble-carga-de-la-malnutricion-el-salvador)
-
-**2019** WFP, El costo de la doble carga de la malnutrición: Impacto social y económico (Honduras)
-
-**2019** WFP, [El costo de la doble carga de la malnutrición: Impacto social y económico (Republica Dominicana)](https://es.wfp.org/el-costo-de-la-doble-carga-de-la-malnutricion-republica-dominicana).    
-
-
-#### Editorial Activities      
-
-**Peer Review Activities. Journal Reviewer**   
+**Peer Review Journal Reviewer**   
   Geospatial Health    
 
 **Review of Abstracts for Scientific Meetings**
