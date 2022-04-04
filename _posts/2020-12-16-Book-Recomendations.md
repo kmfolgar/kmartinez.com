@@ -6,12 +6,9 @@ date: 2020-12-16
 
 Hello there!, this is just a random (maybe not?) list of books that I like and maybe you can find useful!. 
 
-
-
 ### Epidemiology 
 
 Galea, S (2019).  Well: What We Need to Talk about When We Talk about Health
-
 
 ### Math-ish
 
