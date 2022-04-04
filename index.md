@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Hello Visitor!
+# About me
 
-Welcome to my site
+Welcome visitor!, I'm Kevin,  a physician and epidemiologist in training with expertise in chronic disease epidemiology and prevention. Currently I'm a Doctoral Research Fellow with the Urban Health Collaborative at the Dornsife School of Public health. 
 
 <p align="center">
   <img src="kmartinez.png" />
