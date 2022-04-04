@@ -6,6 +6,7 @@ date: 2020-12-16
 
 ## Epidemiology 
 
+Galea, S (2019).  Well: What We Need to Talk about When We Talk about Health
 
 
 ## Math-ish
