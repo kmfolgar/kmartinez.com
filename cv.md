@@ -156,6 +156,8 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 1. Mullachery P, Rodriguez DA, Miranda JJ, López-Olmedo N, **Martinez-Folgar K**, Barreto ML, Diez-Roux AV, Bilal U. _Mortality amenable to healthcare in Latin American cities: a cross-sectional study examining between-country variation in amenable mortality and the role of urban metrics_. International Journal of Epidemiology, Volume 51, Issue 1, February 2022, Pages 303–313, https://doi.org/10.1093/ije/dyab137
 
+1. Bilal U, Caio P de Castro, Alfaro T, Barrientos-Gutierrez T, Barreto M, Leveau C, **Martinez-Folgar K**, Miranda JJ, Montes F, Mullachery P, Pina MF, Rodriguez DA, Dos Santos GF, Andrade RFS, Diez-Roux AV. _Scaling of mortality in 742 metropolitan areas of the Americas_ Science advances, 7(50), eabl6325. [https://doi.org/10.1126/sciadv.abl6325](https://doi.org/10.1126/sciadv.abl6325)
+
 1. Lima EEC, Vilela EA, Peralta A, Rocha M, Queiroz BL, Gonzaga MR, Piscoya-Diaz M, **Martinez-Folgar K**, Garcia-Guerrero VM, Freire FHMA. _Investigating regional excess mortality during 2020 COVID-19 pandemic in selected Latin American countries_. Genus 77, 30 (2021). [https://doi.org/10.1186/s41118-021-00139-1](https://doi.org/10.1186/s41118-021-00139-1)
  
 1. **Martinez-Folgar K,** Alburez D, Paniagua-Avila A, Bilal U. _Excess Mortality During the COVID-19 Pandemic in Guatemala_. American Journal of Public Health 111, 1839-1846, [https://doi.org/10.2105/AJPH.2021.306452](https://doi.org/10.2105/AJPH.2021.306452)
@@ -207,6 +209,8 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 #### Scientific Reports and Policy Briefs    
 
+**2021** Dialogos Guatemala, [Las disparidades del proceso de vacunacion contra la COVID-19](https://www.dialogos.org.gt/publicaciones/las-disparidades-en-el-proceso-de-vacunacion-contra-la-covid-19-retos-opciones-e)    
+
 **2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (Guatemala)](https://reliefweb.int/report/guatemala/el-costo-de-la-doble-carga-de-la-malnutrici-n-impacto-social-y-econ-mico-en) 
 
 **2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (El Salvador)](https://es.wfp.org/publicaciones/el-costo-de-la-doble-carga-de-la-malnutricion-el-salvador)
@@ -219,7 +223,9 @@ College of Physicians &amp; Surgeons of Guatemala.
 ## Peer-review activities      
 
 **Journal Reviewer**   
-  Geospatial Health
+  Geospatial Health   
+  Diabetes Care   
+  British Medical Journal     
   
 
 **Review of Abstracts for Scientific Meetings**    
@@ -231,14 +237,27 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 
 ## News appearences 
+**2022** [Prensa Libre - Accidentes de tránsito: historias de víctimas, tras ese instante trágico que les cambia la vida](https://www.prensalibre.com/guatemala/comunitario/accidentes-de-transito-historias-de-victimas-tras-ese-instante-tragico-que-les-cambia-la-vida/)
+
+**2022** [Prensa Libre - Nuevo sistema del semáforo epidemiológico hace más difícil que un municipio esté en alerta roja](https://www.prensalibre.com/guatemala/comunitario/nuevo-sistema-del-semaforo-epidemiologico-hace-mas-dificil-que-un-municipio-este-en-alerta-roja/)
+
+**2022** [Prensa Libre - La expectativa de vida en Guatemala cayó 2 años debido a la pandemia](https://www.prensalibre.com/guatemala/comunitario/la-expectativa-de-vida-del-guatemalteco-cayo-2-anos-debido-a-la-pandemia/)
+
+**2021** [Prensa Libre - 74% de estudiantes aún no pueden vacunarse, son los niños que cursan primaria y preprimaria](https://www.prensalibre.com/guatemala/comunitario/74-de-estudiantes-aun-no-pueden-vacunarse-son-los-ninos-que-cursan-primaria-y-preprimaria/)
+
+**2021** [¿Hay dosis suficientes para vacunar contra el covid-19 a los adolescentes en Guatemala?](https://www.prensalibre.com/guatemala/comunitario/hay-dosis-suficientes-para-vacunar-contra-el-covid-19-a-los-adolescentes-en-guatemala/)
 
 **2021** [New York Times - 723 Epidemiologists on When and How the U.S. Can Fully Return to Normal](https://www.nytimes.com/2021/05/15/upshot/epidemiologists-covid-return-normal.html)
 
 **2021** [Prensa Libre - Las vacunas contra el covid 19 estan por agotarse en el pais la mayoria son para segundas dosis](https://www.prensalibre.com/guatemala/comunitario/las-vacunas-contra-el-covid-19-estan-por-agotarse-en-el-pais-la-mayoria-son-para-segundas-dosis/)
 
+**2021** [Prensa Libre - 40% de guatemaltecos estaría fuera del plan de vacunación contra el covid-19, las desigualdades que persisten en el país son parte del problema](https://www.prensalibre.com/guatemala/comunitario/40-de-guatemaltecos-estaria-fuera-del-plan-de-vacunacion-contra-el-covid-19-las-desigualdades-que-persisten-en-el-pais-son-parte-del-problema/)
+
 **2021** [Prensa Libre - Mineduc pide suspender clases presenciales en municipios con alerta naranja y tendencia a rojo](https://www.prensalibre.com/guatemala/comunitario/mineduc-pide-suspender-clases-presenciales-en-municipios-con-alerta-naranja-y-tendencia-a-rojo/)
 
 **2021** [Prensa Libre - Coronavirus al ritmo de vacunacion actual, en 19 anos guatemaltecos estarian vacunados](https://www.prensalibre.com/guatemala/comunitario/coronavirus-al-ritmo-de-la-vacunacion-actual-en-19-anos-guatemaltecos-estarian-vacunados/)
+
+**2021** [Ojoconmipisto - El poder local comunitario ya se tiene, el problema sera la logistica de la vacunacion](https://www.ojoconmipisto.com/el-poder-local-comunitario-ya-se-tiene-el-problema-sera-la-logistica-de-la-vacunacion/)
 
 **2020** [Guatevision - Noticiero Guatevision 6 pm, 11 de diciembre de 2020: Min 0:30](https://www.youtube.com/watch?v=5tz2TT5IX54)
 
