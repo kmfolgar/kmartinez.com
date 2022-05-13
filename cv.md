@@ -103,11 +103,11 @@ Social epidemiology, Urban health, Chronic Diseases (Liver disease, Cardiovascul
 
 # Institutional Honors Position
 
-**2021-2023** Doctoral Student Representative at Steering Committee, Urban Health Collaborative, Drexel University.
+**2021-2023** Doctoral Student Representative at Curriculum and Assessment Committee, Dornsife School of Public Health, Drexel University.
 
 **2021-2023** Vice-president of the Institutional Ethics Committee, Institute of Nutrition of Central America and Panamá, Guatemala.
 
-**2020-2021** Doctoral Student Representative at Steering Committee, Urban Health Collaborative, Drexel University.
+**2020-2021** Doctoral Student Representative at Steering Committee, Urban Health Collaborative, Dornsife School of Public Health, Drexel University.
 
 **2018-2020** Vice-president of the Institutional Ethics Committee, Institute of Nutrition of Central America and Panamá, Guatemala.
 
