@@ -4,25 +4,34 @@ layout: page
 permalink: /cv/
 output: pdf_document
 ---
-# Kevin Martinez-Folgar, MD.
+# Kevin Martinez-Folgar, MD, PhD(c).
 Urban Health Collaborative &amp; Department of Epidemiology &amp; Biostatistics   
 Dornsife School of Public Health,    
 Drexel University,  
 
+**url:** https://kmartinez.com    
+**mail:** km3785@drexel.edu    
+**github:** https://github.com/kmfolgar/     
+**orcid:**  https://orcid.org/0000-0001-9262-298X    
+**twitter:** https://twitter.com/kmfolgar    
 
+**Office:**    
+7th Floor    
 3600 Market Street, 
 Philadelphia, PA 19104. USA 
- 
+
 Updated: May 12th, 2022.
 
-### Research interests
-Social epidemiology, Urban health, Chronic Diseases (Liver disease, Cardiovascular disease, Cancer, Hypertension), Physical Activity, Chronic Diseases, Machine Learning in Health, IoT in Health, mHealth.
 
+### Research interests
+Social epidemiology, Urban health, Chronic Diseases (Liver disease, Cardiovascular disease, Cancer, Hypertension), Physical Activity, Machine Learning in Health, IoT in Health, mHealth.
 
 # Education
 
 **2019 - now**   _PhD in Epidemiology_
-- Department of Epidemiology & Biostatistics, Dornsife School of Public Health, Drexel University, Philadelphia, PA. USA
+- Department of Epidemiology & Biostatistics, Dornsife School of Public Health, Drexel University, Philadelphia, PA. USA     
+    -- Dissertation: **Urban environments and chronic liver disease**      
+      --- Dissertation Committee: Usama Bilal (chair), Mariana Lazo, Ana Diez-Roux, Harrison Quick, Steven Solga. 
  
 **2010 - 2016**  _Medical Doctor_
 - Faculty of Medical Sciences, University of San Carlos of Guatemala, Guatemala.
@@ -214,6 +223,9 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 1. **2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (Republica Dominicana)](https://es.wfp.org/el-costo-de-la-doble-carga-de-la-malnutricion-republica-dominicana).    
 
+## Software Skills    
+
+Python (pandas, numpy, matplotlib, etc.), R (base, tidyverse, ggplot2, etc.), Stata, QGIS, Markdown, LaTeX, PHP, SQL.    
 
 ## Peer-review activities      
 
@@ -231,7 +243,8 @@ College of Physicians &amp; Surgeons of Guatemala.
 2020 American Public Health Association - Epidemiology Section   
 
 
-## Media/News appearences 
+## Media/News appearences     
+(clickeable links)
 
 ## 2022
 
@@ -245,7 +258,7 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 **2021** [Prensa Libre - 74% de estudiantes aún no pueden vacunarse, son los niños que cursan primaria y preprimaria](https://www.prensalibre.com/guatemala/comunitario/74-de-estudiantes-aun-no-pueden-vacunarse-son-los-ninos-que-cursan-primaria-y-preprimaria/)
 
-**2021** [¿Hay dosis suficientes para vacunar contra el covid-19 a los adolescentes en Guatemala?](https://www.prensalibre.com/guatemala/comunitario/hay-dosis-suficientes-para-vacunar-contra-el-covid-19-a-los-adolescentes-en-guatemala/)
+**2021** [Prensa Libre - ¿Hay dosis suficientes para vacunar contra el covid-19 a los adolescentes en Guatemala?](https://www.prensalibre.com/guatemala/comunitario/hay-dosis-suficientes-para-vacunar-contra-el-covid-19-a-los-adolescentes-en-guatemala/)
 
 **2021** [New York Times - 723 Epidemiologists on When and How the U.S. Can Fully Return to Normal](https://www.nytimes.com/2021/05/15/upshot/epidemiologists-covid-return-normal.html)
 
