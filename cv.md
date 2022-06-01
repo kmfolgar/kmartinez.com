@@ -29,10 +29,6 @@ Social epidemiology, Urban health, Chronic Diseases (Liver disease, Cardiovascul
 
 ### Other Significant Training
 
-**2022** Public Health Disparities Geocoding Project 2.0, Harvard T.H. Chan School of Public Health.
-
-**2022** Society for Epidemiologic Research (SER) Student Dissertation Workshop.
-
 **2019** Multilevel Modeling Course, Drexel University and Universidade Federal de Minas Gerais, Belo Horizonte, Brazil.
 
 **2018** Physical Activity and Public Health (Advanced course), National Institute of Public Health. Cuernavaca, México.
@@ -139,7 +135,6 @@ Social epidemiology, Urban health, Chronic Diseases (Liver disease, Cardiovascul
 
 - Society for Epidemiologic Research – SER-
 - Interdisciplinary Association for Population Health Science - IAPHS - 
-- American Public Health Association - APHA - 
 - College of Physicians and Surgeons of Guatemala
 - College of Physicians of Philadelphia, Public Health Section.
 - Urban Health Network for Latin America and the Caribbean, Drexel University.
@@ -147,7 +142,7 @@ Social epidemiology, Urban health, Chronic Diseases (Liver disease, Cardiovascul
 
 ### Medical License
 
-Medical registry No. 21,113
+Medical registry No. 21,113    
 College of Physicians &amp; Surgeons of Guatemala.
 
 
@@ -179,7 +174,7 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 1. **Martinez-Folgar K,** Salomon V **.** _Student scientific publication: a look at the Guatemalan reality._ Educacion medica. 2017;18(1): 79. [http://dx.doi.org/10.1016/j.edumed.2016.08.003](http://dx.doi.org/10.1016/j.edumed.2016.08.003)
 
-1. **Martínez-Folgar K.** _Aplicaciones móviles para uso del médico: ¿están basadas en evidencia?._Rev Hisp Cienc Salud. 2016;2(2): 192-193.
+1. **Martínez-Folgar K.** _Aplicaciones móviles para uso del médico: ¿están basadas en evidencia?_. Rev Hisp Cienc Salud. 2016;2(2): 192-193.
 
 1. **Martinez-Folgar K**. _Diagnostic methods: Utopia in Guatemala&#39;s rural public service?._ Rev Calid Asist. 2016. PMID 27575404. [http://dx.doi.org/10.1016/j.cali.2016.06.008](http://dx.doi.org/10.1016/j.cali.2016.06.008)
 
@@ -207,17 +202,17 @@ College of Physicians &amp; Surgeons of Guatemala.
 
 1. **Martinez-Folgar K.** _Mortality trends during the COVID-19 Pandemic: What happened in Guatemala?_. SERdigital Fall 2020
 
-#### Scientific Reports and Policy Briefs    
+### Scientific Reports and Policy Briefs
 
-**2021** Dialogos Guatemala, [Las disparidades del proceso de vacunacion contra la COVID-19](https://www.dialogos.org.gt/publicaciones/las-disparidades-en-el-proceso-de-vacunacion-contra-la-covid-19-retos-opciones-e)    
+1. **2021** Dialogos Guatemala, [Las disparidades del proceso de vacunacion contra la COVID-19](https://www.dialogos.org.gt/publicaciones/las-disparidades-en-el-proceso-de-vacunacion-contra-la-covid-19-retos-opciones-e)    
 
-**2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (Guatemala)](https://reliefweb.int/report/guatemala/el-costo-de-la-doble-carga-de-la-malnutrici-n-impacto-social-y-econ-mico-en) 
+1. **2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (Guatemala)](https://reliefweb.int/report/guatemala/el-costo-de-la-doble-carga-de-la-malnutrici-n-impacto-social-y-econ-mico-en) 
 
-**2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (El Salvador)](https://es.wfp.org/publicaciones/el-costo-de-la-doble-carga-de-la-malnutricion-el-salvador)
+1. **2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (El Salvador)](https://es.wfp.org/publicaciones/el-costo-de-la-doble-carga-de-la-malnutricion-el-salvador)
 
-**2019** World Food Program, El costo de la doble carga de la malnutrición: Impacto social y económico (Honduras)
+1. **2019** World Food Program, El costo de la doble carga de la malnutrición: Impacto social y económico (Honduras)
 
-**2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (Republica Dominicana)](https://es.wfp.org/el-costo-de-la-doble-carga-de-la-malnutricion-republica-dominicana).    
+1. **2019** World Food Program, [El costo de la doble carga de la malnutrición: Impacto social y económico (Republica Dominicana)](https://es.wfp.org/el-costo-de-la-doble-carga-de-la-malnutricion-republica-dominicana).    
 
 
 ## Peer-review activities      
@@ -236,12 +231,17 @@ College of Physicians &amp; Surgeons of Guatemala.
 2020 American Public Health Association - Epidemiology Section   
 
 
-## News appearences 
+## Media/News appearences 
+
+## 2022
+
 **2022** [Prensa Libre - Accidentes de tránsito: historias de víctimas, tras ese instante trágico que les cambia la vida](https://www.prensalibre.com/guatemala/comunitario/accidentes-de-transito-historias-de-victimas-tras-ese-instante-tragico-que-les-cambia-la-vida/)
 
 **2022** [Prensa Libre - Nuevo sistema del semáforo epidemiológico hace más difícil que un municipio esté en alerta roja](https://www.prensalibre.com/guatemala/comunitario/nuevo-sistema-del-semaforo-epidemiologico-hace-mas-dificil-que-un-municipio-este-en-alerta-roja/)
 
 **2022** [Prensa Libre - La expectativa de vida en Guatemala cayó 2 años debido a la pandemia](https://www.prensalibre.com/guatemala/comunitario/la-expectativa-de-vida-del-guatemalteco-cayo-2-anos-debido-a-la-pandemia/)
+
+## 2021 
 
 **2021** [Prensa Libre - 74% de estudiantes aún no pueden vacunarse, son los niños que cursan primaria y preprimaria](https://www.prensalibre.com/guatemala/comunitario/74-de-estudiantes-aun-no-pueden-vacunarse-son-los-ninos-que-cursan-primaria-y-preprimaria/)
 
@@ -258,6 +258,8 @@ College of Physicians &amp; Surgeons of Guatemala.
 **2021** [Prensa Libre - Coronavirus al ritmo de vacunacion actual, en 19 anos guatemaltecos estarian vacunados](https://www.prensalibre.com/guatemala/comunitario/coronavirus-al-ritmo-de-la-vacunacion-actual-en-19-anos-guatemaltecos-estarian-vacunados/)
 
 **2021** [Ojoconmipisto - El poder local comunitario ya se tiene, el problema sera la logistica de la vacunacion](https://www.ojoconmipisto.com/el-poder-local-comunitario-ya-se-tiene-el-problema-sera-la-logistica-de-la-vacunacion/)
+
+## 2020
 
 **2020** [Guatevision - Noticiero Guatevision 6 pm, 11 de diciembre de 2020: Min 0:30](https://www.youtube.com/watch?v=5tz2TT5IX54)
 
