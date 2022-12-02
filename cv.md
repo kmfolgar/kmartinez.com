@@ -2,10 +2,12 @@
 title: "Curriculum Vitae"
 layout: page
 permalink: /cv/
-output: pdf_document
+output:
+  word_document: default
+  pdf_document: default
 ---
 
-Updated: Oct 17th, 2022.
+Updated: Oct 31th, 2022.
 
 # Kevin Martinez-Folgar, MD, PhD(c).
 
@@ -335,6 +337,14 @@ The Lancet Regional Health - Americas
 (clickeable links)
 
 ## 2022
+
+**2022** [Prensa Libre - ¿Está Guatemala preparada para enfrentar la viruela del mono?](https://www.prensalibre.com/guatemala/comunitario/esta-guatemala-preparada-para-enfrentar-la-viruela-del-mono/)
+
+**2022** [Guatevision - Semáforo covid-19 vuelve a sumar tres municipios en alerta verde](https://www.guatevision.com/nacionales/semaforo-covid-19-vuelve-a-sumar-tres-municipios-en-alerta-verde)
+
+**2022** [Prensa Libre - Semáforo covid-19: continúa el dominio de la alerta roja en casi todo el país](https://www.prensalibre.com/guatemala/comunitario/semaforo-covid-19-continua-el-dominio-de-la-alerta-roja-en-casi-todo-el-pais/)
+
+**2022** [Prensa Libre - Guatemala va hacia la quinta ola de covid-19 sin que aumente la cantidad de población vacunada](https://www.prensalibre.com/guatemala/comunitario/guatemala-va-hacia-la-quinta-ola-de-covid-19-sin-que-aumente-la-cantidad-de-poblacion-vacunada/)
 
 **2022** [Prensa Libre - Accidentes de tránsito: historias de víctimas, tras ese instante trágico que les cambia la vida](https://www.prensalibre.com/guatemala/comunitario/accidentes-de-transito-historias-de-victimas-tras-ese-instante-tragico-que-les-cambia-la-vida/)
 
