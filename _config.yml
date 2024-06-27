@@ -1,12 +1,12 @@
-title: Kevin Martínez-Folgar, MD.
+title: Kevin Martínez-Folgar, MD, PhD.
 
-#theme: jekyll-theme-hacker
+theme: jekyll-theme-hacker
 
 # Name of your site (displayed in the header)
-name: Kevin Martínez-Folgar, MD.
+name: Kevin Martínez-Folgar, MD, PhD.
 
 # Short bio or description (displayed in the header)
-description: Medical Doctor, PhD Student in Epidemiology, Drexel University
+description: Physician-Epidemiologist | Health Data Scientist | Public Health | Health Policy | Health Economics | Health Disparities | Health Equity 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/26907179?s=460&u=e20a764d95a0a1f20a4be6f75a21ee2c387f2169&v=4
@@ -14,7 +14,7 @@ avatar: https://avatars1.githubusercontent.com/u/26907179?s=460&u=e20a764d95a0a1
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: km3785@drexel.edu
+  email: kmfolgar@umich.edu
   facebook:
   flickr:
   github: thinkondata
