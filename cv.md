@@ -3,11 +3,11 @@ title: "Curriculum Vitae"
 layout: page
 permalink: /cv/
 output:
-  pdf_document: default
   word_document: default
+  pdf_document: default
 ---
 
-Updated: Jan 6th, 2024.
+Updated: Apr 1th, 2024.
 
 # Kevin Martinez-Folgar, MD, PhD.
 
@@ -32,6 +32,10 @@ Updated: Jan 6th, 2024.
 - Affiliated Research Professor, School of Medical Sciences, University of San Carlos of Guatemala.
 
 # Education
+-   (*2023 - curent)* ***Impact scholar - Postdoctoral Research Fellow***.\
+    Center for Global Health Equity, University of Michigan, MI, USA.\
+    Project Tittle: *Urban environments and chronic diseases: the role of place in shape health inequities* **\
+    **Postdoctoral Advisor Committee: *David Flood (U-M), Joe Kolars(U-M), Lindsay Kobayashi(U-M), Manuel Ramirez-Zea (INCAP), Aryeh Stein (EMORY).*
 
 -   (*2019 - 2023)* ***PhD in Epidemiology***.\
     Dornsife School of Public Health, Drexel University, Philadelphia, PA. USA.\
@@ -71,7 +75,7 @@ Updated: Jan 6th, 2024.
 
 # Professional Experience
 
-**October 2023 -- to date** Postdoctoral Fellow (Impact Scholar), Center for Global Health Equity, University of Michigan.
+**October 2023 -- to date** Impact Scholar (Postdoctoral Research Fellow), Center for Global Health Equity, University of Michigan.
 
 **September 2019 -- September 2023** Graduate Research Fellow in the Urban Health Collaborative, Dornsife School of Public Health, Drexel University.
 
@@ -133,11 +137,15 @@ Updated: Jan 6th, 2024.
 -   **COVID-19 in Guatemala: Epidemiology** (2020)
     -   Guest Speaker at Faculty of Medical Sciences, University of San Carlos, Guatemala
     -   Delivered insights on the epidemiological aspects of COVID-19 in Guatemala.
+    
 -   **COVID-19 in Guatemala: Trends and Simulation Models** (2020)
     -   Guest Speaker at Guatemalan Society of Infectious Diseases (AGEI)
     -   Discussed the latest trends and model simulations related to COVID-19 in Guatemala.
 
 ### Guest Lectures in Academic Courses
+-   **Place and chronic diseases: from US to LATAM Cities** (2018)
+    -   Guest Speaker at EPID665: Research Seminar in International Health at School of Public Health, University of Michigan, MI, USA.
+    -   Delivered insights on the epidemiological aspects of Place and Chronic Diseases from a Global Health perspective.
 
 -   **Introduction to the Use of Scientific Evidence and Correct Citation** (2018)
     -   Faculty of Nutrition Sciences, University Del Valle of Guatemala
@@ -182,6 +190,32 @@ General Assembly of the Latin American Federation of Scientific Societies of Med
 
 **2012** *First Substitute of General Secretary*\
 National Medical Student Association "Gustavo Adolfo Hernandez".
+
+# Grants and funding support
+
+**Project:** "Race and Ethnic Disparities in Health Outcomes in Guatemala"\
+**Role:** Principal Investigator. \
+**Award:** $5,000\
+**Source:** Center for Global Health Equity, University of Michigan, MI. USA.\
+**Dates:** 2024\
+
+**Project:** "Geographic Capital and Health Disparities in Chronic Diseases"\
+**Role:** Principal Investigator (seed grant)\
+**Award:** $7,000\
+**Source:** Center for Global Health Equity, University of Michigan, MI. USA.\
+**Dates:** 2023\
+
+**Project:** "COVID-19 Inequities among Hispanics in US Cities" \
+**Role:** Research fellow (PI: Usama Bilal)\
+**Award:** $391,249\
+**Funder:** NIH, Early Independence Award DP5-OD26429 (Supplement)\
+**Dates:** 2020-2022\
+
+**Project:** "The Health Consequences of Urban Scaling"\
+**Role:** Research fellow (PI: Usama Bilal)\
+**Award** $1,956,245\
+**Funder:** NIH, Early Independence Award DP5-OD26429\
+**Dates:** 2018-2024\
 
 # Awards and Fellowships
 
@@ -316,6 +350,7 @@ The Lancet Regional Health - Americas\
 Heliyon
 
 **Review of Abstracts for Scientific Meetings\
+**2024 Society for Epidemiologic Research Annual Meeting\
 **2023 Society for Epidemiologic Research Annual Meeting\
 2022 Society for Epidemiologic Research Annual Meeting\
 2021 International Population Conference\
@@ -324,6 +359,14 @@ Heliyon
 2020 American Public Health Association - Epidemiology Section
 
 ## Media/News Appearances
+
+### Documentary Appearances
+
+#### 2023
+- **"Salud y Ciudad"** - Resources from the Interamerican Development Bank
+  - IDB Blog - [Read more](https://blogs.iadb.org/ciudades-sostenibles/es/ciudades-saludables-codigo-postal-salud-codigo-genetico/)
+  - Drexel University Toolkit - [View toolkit](https://drexel.edu/lac/capacity-building/toolkit/)
+  - YouTube Video - [Watch documentary](https://www.youtube.com/watch?v=aUM9cxbz_-s)
 
 ### Television Appearances
 
@@ -335,14 +378,6 @@ Heliyon
 - **Guatevision**
   - Noticiero Guatevision 6 pm, 11 de diciembre de 2020: Min 0:30 - [Watch here](https://www.youtube.com/watch?v=5tz2TT5IX54)
   - Noticiero Guatevision 1 pm, 11 de diciembre de 2020: Min 7:20 - [Watch here](https://www.youtube.com/watch?v=vn4xpwV5NW4)
-
-### Documentary Appearances
-
-#### 2023
-- **"Salud y Ciudad"** - Resources from the Interamerican Development Bank
-  - IDB Blog - [Read more](https://blogs.iadb.org/ciudades-sostenibles/es/ciudades-saludables-codigo-postal-salud-codigo-genetico/)
-  - Drexel University Toolkit - [View toolkit](https://drexel.edu/lac/capacity-building/toolkit/)
-  - YouTube Video - [Watch documentary](https://www.youtube.com/watch?v=aUM9cxbz_-s)
 
 ### Printed Media Appearances
 
