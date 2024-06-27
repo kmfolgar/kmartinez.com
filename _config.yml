@@ -1,6 +1,8 @@
 title: Kevin Martínez-Folgar, MD, PhD.
 
-theme: jekyll-theme-hacker
+
+
+theme: jekyll-theme-minimal
 
 # Name of your site (displayed in the header)
 name: Kevin Martínez-Folgar, MD, PhD.
@@ -17,7 +19,7 @@ footer-links:
   email: kmfolgar@umich.edu
   facebook:
   flickr:
-  github: thinkondata
+  github: kmfolgar
   instagram:
   linkedin:
   pinterest:
